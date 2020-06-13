@@ -1,0 +1,4 @@
+{
+    "apiUsersEndPoint": "https://randomuser.me/api/?results=10",
+    "apiPostsEndPoint": "http://localhost:3900/api/posts/"
+}
